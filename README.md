@@ -6,3 +6,4 @@ All the Practice code will be saved here..
     2. Mongoose ODM
     3. Model, Contollers Archicture
     4. CRUD operations
+and tested this API using PostMan
